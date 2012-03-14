@@ -16,6 +16,7 @@ BuildRequires:	SDL_image-devel
 BuildRequires:	SDL_gfx-devel
 BuildRequires:	SDL_ttf-devel
 BuildRequires:	SDL_mixer-devel
+BuildRequires:	pkgconfig(zziplib)
 
 %description
 This is a generic engine for simulation of Game & Watch games,
