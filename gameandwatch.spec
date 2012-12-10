@@ -73,3 +73,11 @@ EOF
 %{_datadir}/%{name}
 %{_datadir}/applications/%{name}.desktop
 %{_datadir}/pixmaps/%{name}.png
+
+
+%changelog
+* Wed Mar 14 2012 Andrey Bondrov <abondrov@mandriva.org> 0.3-131.1
++ Revision: 784962
+- Update BuildRequires
+- imported package gameandwatch
+
