@@ -6,7 +6,7 @@ Release:	%mkrel %{svn}.1
 Summary:	A generic engine for simulation of Game & Watch-like games
 Group:		Emulators
 License:	GPL
-URL:		http://www.rangelreale.com/programming/game-watch-simulator
+URL:		https://www.rangelreale.com/programming/game-watch-simulator
 # fetched from svn
 Source0:	%{name}-%{version}-%{svn}.tar.bz2
 Patch0:		gameandwatch-0.3-131-type.patch
