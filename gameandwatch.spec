@@ -10,6 +10,11 @@ URL:		https://www.rangelreale.com/programming/game-watch-simulator
 # fetched from svn
 Source0:	%{name}-%{version}-%{svn}.tar.bz2
 Patch0:		gameandwatch-0.3-131-type.patch
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	boost-devel
 BuildRequires:	SDL-devel
 BuildRequires:	SDL_image-devel
