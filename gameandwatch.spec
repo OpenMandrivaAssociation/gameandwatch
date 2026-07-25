@@ -2,7 +2,7 @@
 
 Name:		gameandwatch
 Version:	0.3
-Release:	%mkrel %{svn}.1
+Release:	%{svn}.2
 Summary:	A generic engine for simulation of Game & Watch-like games
 Group:		Emulators
 License:	GPL
